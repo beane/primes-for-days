@@ -6,5 +6,5 @@
 `rspec`
 
 ## Versions
-Ruby 2.2.1
-RSpec 3.4.0
+- Ruby 2.2.1
+- RSpec 3.4.0
